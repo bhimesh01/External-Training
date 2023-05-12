@@ -13,7 +13,7 @@ The Library Management System is a software system that manages the operations o
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/Library-Management-System.git`
+1. Clone the repository: `git clone https://github.com/bhimesh01/Library-management-System.git`
 2. Install Python 3
 
 
